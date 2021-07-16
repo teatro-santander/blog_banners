@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="f-select-container box_form">
+      <form
+        action="https://sendy.teatrosantanderbga.com/subscribe"
+        method="POST"
+        accept-charset="utf-8"
+      >
+        <label for="email"></label>
+        <input
+          class="input-text"
+          placeholder="Correo electrónico"
+          type="email"
+          name="email"
+          id="email"
+          required
+        />
+
+        <label for="phone"></label>
+        <input
+          type="text"
+          name="phone"
+          id="phone"
+          placeholder="Número de Whatsapp"
+          required
+        />
+
+        <label for="event"></label>
+        <input
+          style="display: none"
+          type="text"
+          name="event"
+          id="event"
+          type="hidden"
+          value="Nombre o ID del evento"
+        />
+        <div style="display: none">
+          <label for="hp">HP</label><br />
+          <input type="text" name="hp" id="hp" />
+        </div>
+        <input type="hidden" name="list" value="JlD7v892v4Ij2y6k2sHz6bsg" />
+        <input type="hidden" name="subform" value="yes" />
+        <input
+          type="submit"
+          name="submit"
+          id="submit"
+          class="button-cta"
+          value="Recibir notificación"
+        />
+      </form>
+    </div>
+  </body>
+</html>
