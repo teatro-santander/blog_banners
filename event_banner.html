@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!--  -------------- copiar DESDE aquí para indexar en ghost ------------------- -->
+    <style>
+      .box {
+        background-color: rgb(2, 0, 36);
+        background: -moz-linear-gradient(
+          90deg,
+          rgba(2, 0, 36, 1) 0%,
+          rgba(30, 41, 59, 1) 30%,
+          rgba(56, 189, 248, 1) 100%
+        );
+        background: -webkit-linear-gradient(
+          90deg,
+          rgba(2, 0, 36, 1) 0%,
+          rgba(30, 41, 59, 1) 30%,
+          rgba(56, 189, 248, 1) 100%
+        );
+        background: linear-gradient(
+          90deg,
+          rgba(2, 0, 36, 1) 0%,
+          rgba(30, 41, 59, 1) 30%,
+          rgba(56, 189, 248, 1) 100%
+        );
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#38bdf8",GradientType=1);
+        padding: 20px;
+        display: grid;
+        grid-template-columns: 70% 30%;
+        column-gap: 20px;
+        border-radius: 16px;
+        align-items: center;
+      }
+      .button-cta {
+        background-color: white;
+      }
+      .mini-text {
+        font-size: 12px;
+        color: #38bdf8;
+        margin: 0px !important;
+      }
+
+      .icons-group {
+        max-height: 25px;
+        justify-self: start !important;
+        vertical-align: auto;
+      }
+
+      @media only screen and (max-width: 600px) {
+        .box {
+          display: inline-block;
+        }
+      }
+    </style>
+
+    <section>
+      <div class="box">
+        <div>
+          <p class="mini-text">🎫 Disponible</p>
+          <h3 style="color: white">Compra tus boletas para este evento</h3>
+          <!--  <p style="color: white">
+            A través de Tuboleta.com podrás hacer tu compra usando tu medio de
+            pago favorito.
+          </p> -->
+          <!--  <img
+            class="icons-group"
+            src="https://public-site-content.s3.amazonaws.com/icons/cards-logo.svg"
+            alt="Logos medios de pago"
+          /> -->
+        </div>
+        <div>
+          <a href="https://tuboleta.com" class="f-button button-cta medium"
+            >Comprar boletas</a
+          >
+        </div>
+      </div>
+    </section>
+
+    <!--  -------------- copiar HASTA aquí para indexar en ghost ------------------- -->
+  </body>
+</html>
