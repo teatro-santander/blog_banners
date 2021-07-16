@@ -15,7 +15,7 @@ Los textos que puedes cambiar siempre los encontrarás entre comillas y si usas 
 * Textos del banner
 
 # Sobre el Banner Wait List
-![Drag Racing](img-examples/Screen Shot 2021-07-16 at 15.40.28.png)
+![banner-1](https://github.com/teatro-santander/blog_banners/blob/master/img-examples/Screen%20Shot%202021-07-16%20at%2015.40.28.png)
 
 Usa este banner cuando la boletería esté a la espera de una nueva apertura por aforo o cuando se este considerando hacer una segunda función del mismo evento. Los cambios que podrás hacer son: 
 * Textos del banner
