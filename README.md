@@ -8,7 +8,7 @@ Los banner se encuentran dentro de un archivo HTML el cual no debe ser copiado e
 
 # Añadir banner en ghost
 En la opción de (+) debe elegir la opción HTML y allí pegar el fragmento de código. Ten en cuenta que si quieres ver cómo se ve el fragmento deberás usar la opción de previsualizar el artículo.
-![banner-1](https://github.com/teatro-santander/blog_banners/blob/master/img-examples/event_banner.png)
+![ghost-example](https://github.com/teatro-santander/blog_banners/blob/master/img-examples/ghost-ejemplo.gif)
 
 # Sobre el Banner Event
 ![banner-1](https://github.com/teatro-santander/blog_banners/blob/master/img-examples/event_banner.png)
