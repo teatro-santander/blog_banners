@@ -7,6 +7,8 @@ Si alguno de los banners usa algún formaulrio estos datos serán guardados en l
 Los banner se encuentran dentro de un archivo HTML el cual no debe ser copaido en su totalidad. Dentro de cada uno de los archivos encontrarán las instrucciones las lineas de código que se deben copiar
 
 # Sobre el Banner Event
+![banner-1](https://github.com/teatro-santander/blog_banners/blob/master/img-examples/event_banner.png)
+
 Usa este banner cuando la boletería para alguno de los eventos esté disponible y las personas peudan ir al sitio web del operador de boletería a realziar la compra
 
 ## Como cambiar los textos de los banners
