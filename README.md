@@ -38,5 +38,6 @@ Cuando un usuario ingrese sus datos, de forma oculta se enviará el dato sobre e
 ## Cambiar texto del botón del formulario
 Este cambio se podrá hacer en la linea 142 del código cambiando el texto que está entre comillas. 
 
-> **Banners en los mail enviados desde Ghost**
-Los clientes de correos no aceptan algunos estilos HTMLl por consiguiente los banner pueden variar su diseño al enviarse los artículos como correos. **Se suigiere que estos banners se añadan despúes de enviar el newslatter desde ghost.** Si el banner es de formluario ten en cuenta que esta no podrá llenarse desde un correo electrónico y puede generar una mala experienica para el usuario.
+# Notas
+> ## Banners en los mail enviados desde Ghost
+> Los clientes de correos no aceptan algunos estilos HTMLl por consiguiente los banner pueden variar su diseño al enviarse los artículos como correos. **Se suigiere que estos banners se añadan despúes de enviar el newslatter desde ghost.** Si el banner es de formluario ten en cuenta que esta no podrá llenarse desde un correo electrónico y puede generar una mala experienica para el usuario.
